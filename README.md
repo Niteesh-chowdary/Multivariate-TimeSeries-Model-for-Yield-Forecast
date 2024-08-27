@@ -3,3 +3,6 @@
 
 # Depth Estimation Flow Diagram
 ![Depth Estimation process](https://github.com/Niteesh-chowdary/Multivariate-TimeSeries-Model-for-Yield-Forecast/blob/main/depthEstimationImage.png)
+
+# Multivariate TimeSeries Model Diagram
+![Deep Learning Model Design](https://github.com/Niteesh-chowdary/Multivariate-TimeSeries-Model-for-Yield-Forecast/blob/main/model.png)
